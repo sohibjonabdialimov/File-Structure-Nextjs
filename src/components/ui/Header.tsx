@@ -26,10 +26,13 @@ const Header = () => {
             <Link href={"/about"}>About</Link>
           </li>
           <li>
-            <Link href={"/user"}>User</Link>
+            <Link href={"/users"}>Users</Link>
           </li>
           <li>
             <Link href={"/login"}>Login</Link>
+          </li>
+          <li>
+            <Link href={"/admin"}>Admin</Link>
           </li>
         </ul>
       </nav>
